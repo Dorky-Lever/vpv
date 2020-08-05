@@ -15,7 +15,6 @@ pillow = "==2.2.1"
 lxml = "*"
 pyqtgraph = "*"
 toml = "*"
-dateutil = "*"
 python-dateutil = "*"
 
 [requires]
